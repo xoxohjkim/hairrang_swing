@@ -43,5 +43,16 @@
 <br>
 
 ## 구동 화면
+```
+![main](https://user-images.githubusercontent.com/75772939/114710190-67e2ab80-9d68-11eb-96f6-b879bc1b1e02.jpg)
+<br>
 
+![주문](https://user-images.githubusercontent.com/75772939/114710278-7c26a880-9d68-11eb-981b-c5f0d9c5a7d6.jpg)
+<br>
 
+![통계](https://user-images.githubusercontent.com/75772939/114710270-7af57b80-9d68-11eb-8574-02938840d254.jpg)
+<br>
+
+![예약내역](https://user-images.githubusercontent.com/75772939/114710276-7c26a880-9d68-11eb-9835-716b20ed2b3e.jpg)
+<br>
+```
