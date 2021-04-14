@@ -4,7 +4,8 @@
 <br><br>
 
 ## 사용언어 및 기술 
-Java Swing, Oracle
+- Java Swing
+- Oracle
 
 ## 메뉴 구성 
 1. 영업관리
