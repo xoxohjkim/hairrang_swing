@@ -33,4 +33,8 @@
 
 
 ## ERD
-![swing-erd](https://user-images.githubusercontent.com/75772939/114708466-55677280-9d66-11eb-9e40-673bb22959dc.jpg)
+![swing-erd](https://user-images.githubusercontent.com/75772939/114708658-99f30e00-9d66-11eb-91fe-3f39886478af.jpg)
+
+## 구동 화면
+
+
